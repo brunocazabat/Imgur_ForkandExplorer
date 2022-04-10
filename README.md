@@ -10,3 +10,5 @@ The project’s functionalities are set out as follows:
 • Upload photos to the plateform
 • Manage your favorites
 • Filter the displayed photos
+
+Delivered AS IS.
